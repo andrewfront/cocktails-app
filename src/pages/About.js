@@ -15,9 +15,6 @@ const About = () => {
           </div>
         </div>
       </div>
-      <footer className='cocktails__copyright'>
-    made by | andrew
-</footer>
     </div>
   )
 }
